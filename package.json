@@ -1,0 +1,29 @@
+{
+  "name": "@tschallacka/shouldmatchall",
+  "version": "1.0.0",
+  "description": "A utility function to match all provided strings in given string, in given order.",
+  "main": "matchall.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "keywords": [
+    "string",
+    "matching",
+    "should match all"
+  ],
+  "author": "Tschallacka",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tschallacka/npm_shouldmatchall.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tschallacka/npm_shouldmatchall/issues"
+  },
+  "homepage": "https://github.com/tschallacka/npm_shouldmatchall#readme"
+}
