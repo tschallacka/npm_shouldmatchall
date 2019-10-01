@@ -1,6 +1,6 @@
 {
   "name": "@tschallacka/shouldmatchall",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility function to match all provided strings in given string, in given order.",
   "main": "matchall.js",
   "scripts": {
