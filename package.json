@@ -1,6 +1,6 @@
 {
   "name": "@tschallacka/shouldmatchall",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A utility function to match all provided strings in given string, in given order.",
   "main": "matchall.js",
   "scripts": {
@@ -16,7 +16,7 @@
   "dependencies": {},
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.1.4"
+    "mocha": "^7.1.1"
   },
   "repository": {
     "type": "git",
